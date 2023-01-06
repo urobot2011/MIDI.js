@@ -1,9 +1,9 @@
 ## Code examples (from the repo)
 
-* [Basic](./examples/Basic.html) - the most basic implementation.
-* [MIDIPlayer](./examples/MIDIPlayer.html) - how to parse MIDI files, and interact with the data stream.
-* [MultipleInstruments](./examples/MultipleInstruments.html) - synth drum and piano playing together
-* [WhitneyMusicBox](./examples/WhitneyMusicBox.html) - a audio/visual experiment by Jim Bumgardner
+* [Basic](https://urobot2011.github.io/MIDI.js/examples/Basic.html) - the most basic implementation.
+* [MIDIPlayer](https://urobot2011.github.io/MIDI.js/examples/MIDIPlayer.html) - how to parse MIDI files, and interact with the data stream.
+* [MultipleInstruments](https://urobot2011.github.io/MIDI.js/examples/MultipleInstruments.html) - synth drum and piano playing together
+* [WhitneyMusicBox](https://urobot2011.github.io/MIDI.js/examples/WhitneyMusicBox.html) - a audio/visual experiment by Jim Bumgardner
 
 ## Demos
 
